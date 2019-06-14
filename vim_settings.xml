@@ -1,0 +1,332 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="/fragment.m" timestamp="1560340216937">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/aosp/aosp9.0/frameworks/av/services/audioflinger/AudioFlinger.cpp" timestamp="1560414454729" />
+      <file name="/LLDB" timestamp="1560341337062">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/aosp/aosp9.0/frameworks/native/libs/binder/MemoryHeapBase.cpp" timestamp="1560414808149" />
+      <file name="$USER_HOME$/git/Demos/BadLayoutManagerDemo/app/src/main/cpp/CMakeLists.txt" timestamp="1560337992610">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/SouthPole/AppStore/common/src/main/java/com/tencent/southpole/common/model/repositories/AbsMemoryCachedRepository.kt" timestamp="1560503632106" />
+      <file name="/Dummy.txt" timestamp="1560505432934">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/SouthPole/AppStore/welfare/src/main/java/com/tencent/southpole/welfare/adapters/LuxuryPageAdapter.kt" timestamp="1560398705186">
+        <mark key="[" line="86" column="99" />
+      </file>
+      <file name="$USER_HOME$/git/aosp/aosp9.0/frameworks/av/services/audioflinger/TrackBase.h" timestamp="1560414993096" />
+      <file name="/fragment.kt" timestamp="1560341011430">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="27" />
+        <mark key="^" line="0" column="11" />
+        <mark key="." line="0" column="27" />
+      </file>
+      <file name="$USER_HOME$/git/SouthPole/AppStore/app/build.gradle" timestamp="1560428371795">
+        <mark key="[" line="75" column="69" />
+        <mark key="]" line="75" column="69" />
+        <mark key="." line="75" column="69" />
+      </file>
+      <file name="$USER_HOME$/git/Demos/BadLayoutManagerDemo/app/build.gradle" timestamp="1560338193847">
+        <mark key="[" line="14" column="5" />
+      </file>
+      <file name="$USER_HOME$/git/aosp/aosp9.0/frameworks/av/services/audioflinger/Tracks.cpp" timestamp="1560415040672" />
+      <file name="$USER_HOME$/git/SouthPole/AppStore/build.gradle" timestamp="1560506610883">
+        <mark key="[" line="13" column="31" />
+      </file>
+      <file name="$USER_HOME$/git/aosp/aosp9.0/frameworks/av/media/libaudioclient/AudioTrack.cpp" timestamp="1560414887222" />
+      <file name="/fragment.mm" timestamp="1560341025550">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/SouthPole/AppStore/welfare/src/main/java/com/tencent/southpole/welfare/fragment/GPassZoneCardListFragment.kt" timestamp="1560398613066">
+        <mark key="[" line="469" column="9" />
+        <mark key="^" line="468" column="47" />
+      </file>
+      <file name="$USER_HOME$/git/SouthPole/AppStore/common/src/main/java/com/tencent/southpole/common/model/repositories/WelfareRepository.kt" timestamp="1560428008251">
+        <mark key="[" line="40" column="5" />
+        <mark key="]" line="382" column="71" />
+        <mark key="^" line="171" column="27" />
+        <mark key="." line="382" column="71" />
+      </file>
+      <file name="$USER_HOME$/git/SouthPole/AppStore/welfare/src/main/java/com/tencent/southpole/welfare/activity/GPassBaseActivity.kt" timestamp="1559702829064">
+        <mark key="[" line="21" column="38" />
+        <mark key="]" line="73" column="8" />
+        <mark key="^" line="35" column="18" />
+        <mark key="." line="73" column="8" />
+      </file>
+      <file name="$USER_HOME$/git/SouthPole/AppStore/welfare/src/main/java/com/tencent/southpole/welfare/viewmodel/GPassHomeViewModel.kt" timestamp="1560505063629">
+        <mark key="[" line="268" column="13" />
+      </file>
+      <file name="/fragment.java" timestamp="1560339091714">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="1" />
+        <mark key="." line="0" column="1" />
+        <mark key="^" line="0" column="3" />
+      </file>
+      <file name="$USER_HOME$/git/SouthPole/AppStore/welfare/src/main/java/com/tencent/southpole/welfare/viewmodel/GPassGameViewModel.kt" timestamp="1560505070285">
+        <mark key="[" line="352" column="13" />
+        <mark key="]" line="67" column="26" />
+        <mark key="." line="67" column="26" />
+        <mark key="^" line="67" column="26" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="35" column="13" filename="$USER_HOME$/git/SouthPole/AppStore/welfare/src/main/res/layout/gpass_game_section_two_line_item_gift.xml" />
+      <jump line="68" column="64" filename="$USER_HOME$/git/SouthPole/AppStore/welfare/src/main/java/com/tencent/southpole/welfare/adapters/LuxuryPageAdapter.kt" />
+      <jump line="228" column="72" filename="$USER_HOME$/git/SouthPole/AppStore/welfare/src/main/java/com/tencent/southpole/welfare/viewmodel/ActivateProcessComp.kt" />
+      <jump line="49" column="8" filename="$USER_HOME$/git/SouthPole/AppStore/common/src/main/java/com/tencent/southpole/common/utils/FlyEagleChannelUtils.kt" />
+      <jump line="13" column="16" filename="$USER_HOME$/git/SouthPole/AppStore/app/src/androidTest/assets/data/vip.json" />
+      <jump line="260" column="0" filename="$USER_HOME$/git/SouthPole/AppStore/app/src/androidTest/java/com/tencent/southpole/mock/MockUtils.kt" />
+      <jump line="7" column="0" filename="$USER_HOME$/git/SouthPole/AppStore/app/src/androidTest/assets/data/vip_wanmeishijie.json" />
+      <jump line="14" column="0" filename="$USER_HOME$/git/SouthPole/AppStore/app/src/androidTest/assets/data/vip_wanmeishijie.json" />
+      <jump line="189" column="61" filename="$USER_HOME$/git/SouthPole/AppStore/welfare/src/main/java/com/tencent/southpole/welfare/fragment/GPassZoneCardListFragment.kt" />
+      <jump line="20" column="0" filename="$USER_HOME$/git/SouthPole/AppStore/common/src/main/java/com/tencent/southpole/common/model/vo/welfare/gpass/UpVipTextPrivilege.kt" />
+      <jump line="2998" column="75" filename="$USER_HOME$/Library/Android/sdk/sources/android-28/android/widget/TextView.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/git/SouthPole/AppStore/app/src/androidTest/assets/data/vip_quanminggongzhu.json" />
+      <jump line="127" column="0" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.recyclerview/recyclerview/1.0.0-rc01/bb1c2a507570b0637ea921fb4de536f67d195b0d/recyclerview-1.0.0-rc01-sources.jar!/androidx/recyclerview/widget/LinearLayoutManager.java" />
+      <jump line="219" column="4" filename="$USER_HOME$/git/SouthPole/AppStore/welfare/src/main/java/com/tencent/southpole/welfare/fragment/GPassZoneCardListFragment.kt" />
+      <jump line="220" column="0" filename="$USER_HOME$/git/SouthPole/AppStore/welfare/src/main/java/com/tencent/southpole/welfare/fragment/GPassZoneCardListFragment.kt" />
+      <jump line="232" column="8" filename="$USER_HOME$/git/SouthPole/AppStore/welfare/src/main/java/com/tencent/southpole/welfare/fragment/GPassZoneCardListFragment.kt" />
+      <jump line="193" column="8" filename="$USER_HOME$/git/SouthPole/AppStore/welfare/src/main/java/com/tencent/southpole/welfare/fragment/GPassZoneCardListFragment.kt" />
+      <jump line="174" column="0" filename="$USER_HOME$/git/SouthPole/AppStore/welfare/src/main/java/com/tencent/southpole/welfare/fragment/GPassZoneCardListFragment.kt" />
+      <jump line="197" column="0" filename="$USER_HOME$/git/SouthPole/AppStore/welfare/src/main/java/com/tencent/southpole/welfare/fragment/GPassZoneCardListFragment.kt" />
+      <jump line="15" column="23" filename="$USER_HOME$/git/SouthPole/AppStore/app/src/androidTest/assets/data/item_recharge_feiche.json" />
+      <jump line="128" column="0" filename="$USER_HOME$/git/SouthPole/AppStore/app/src/androidTest/assets/data/item_recharge_feiche.json" />
+      <jump line="107" column="29" filename="$USER_HOME$/git/SouthPole/AppStore/welfare/src/main/java/com/tencent/southpole/welfare/widget/GPassGameZoneSingleLineGiftLayoutManager.kt" />
+      <jump line="103" column="0" filename="$USER_HOME$/git/SouthPole/AppStore/welfare/src/main/java/com/tencent/southpole/welfare/widget/GPassGameZoneSingleLineGiftLayoutManager.kt" />
+      <jump line="23" column="44" filename="$USER_HOME$/git/SouthPole/AppStore/welfare/src/main/java/com/tencent/southpole/welfare/widget/GPassGameZoneSingleLineGiftLayoutManager.kt" />
+      <jump line="6" column="30" filename="$USER_HOME$/git/SouthPole/AppStore/app/src/androidTest/assets/data/identity_longzhigu.json" />
+      <jump line="35" column="8" filename="$USER_HOME$/git/SouthPole/AppStore/app/src/androidTest/java/com/tencent/southpole/mock/MockWelfareService.kt" />
+      <jump line="36" column="15" filename="$USER_HOME$/git/SouthPole/AppStore/app/src/androidTest/java/com/tencent/southpole/mock/MockWelfareService.kt" />
+      <jump line="128" column="66" filename="$USER_HOME$/git/SouthPole/AppStore/welfare/src/main/java/com/tencent/southpole/welfare/adapters/RecyclerViewLinearItemDecoration.kt" />
+      <jump line="152" column="0" filename="$USER_HOME$/git/SouthPole/AppStore/welfare/src/main/java/com/tencent/southpole/welfare/adapters/RecyclerViewLinearItemDecoration.kt" />
+      <jump line="9992" column="20" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.recyclerview/recyclerview/1.0.0-rc01/bb1c2a507570b0637ea921fb4de536f67d195b0d/recyclerview-1.0.0-rc01-sources.jar!/androidx/recyclerview/widget/RecyclerView.java" />
+      <jump line="416" column="4" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.recyclerview/recyclerview/1.0.0-rc01/bb1c2a507570b0637ea921fb4de536f67d195b0d/recyclerview-1.0.0-rc01-sources.jar!/androidx/recyclerview/widget/LinearLayoutManager.java" />
+      <jump line="793" column="68" filename="$USER_HOME$/git/SouthPole/AppStore/welfare/src/main/java/com/tencent/southpole/welfare/fragment/GPassZoneCardListFragment.kt" />
+      <jump line="485" column="44" filename="$USER_HOME$/git/SouthPole/AppStore/welfare/src/main/java/com/tencent/southpole/welfare/fragment/GPassZoneCardListFragment.kt" />
+      <jump line="174" column="27" filename="$USER_HOME$/git/SouthPole/AppStore/common/src/test/java/com/tencent/southpole/gamecenter/api/WelfareServiceForTestEvnTest.kt" />
+      <jump line="11304" column="23" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.recyclerview/recyclerview/1.0.0-rc01/bb1c2a507570b0637ea921fb4de536f67d195b0d/recyclerview-1.0.0-rc01-sources.jar!/androidx/recyclerview/widget/RecyclerView.java" />
+      <jump line="69" column="0" filename="$USER_HOME$/git/SouthPole/AppStore/common/src/test/java/com/tencent/southpole/gamecenter/api/WelfareServiceForTestEvnTest.kt" />
+      <jump line="59" column="7" filename="$USER_HOME$/git/SouthPole/AppStore/common/src/test/java/com/tencent/southpole/gamecenter/api/WelfareServiceForReleaseEvnTest.kt" />
+      <jump line="78" column="38" filename="$USER_HOME$/git/SouthPole/AppStore/common/src/test/java/com/tencent/southpole/gamecenter/api/WelfareServiceForReleaseEvnTest.kt" />
+      <jump line="87" column="0" filename="$USER_HOME$/git/SouthPole/AppStore/common/src/test/java/com/tencent/southpole/gamecenter/api/WelfareServiceForReleaseEvnTest.kt" />
+      <jump line="100" column="0" filename="$USER_HOME$/git/SouthPole/AppStore/common/src/test/java/com/tencent/southpole/gamecenter/api/WelfareServiceForReleaseEvnTest.kt" />
+      <jump line="104" column="38" filename="$USER_HOME$/git/SouthPole/AppStore/common/src/test/java/com/tencent/southpole/gamecenter/api/WelfareServiceForReleaseEvnTest.kt" />
+      <jump line="118" column="38" filename="$USER_HOME$/git/SouthPole/AppStore/common/src/test/java/com/tencent/southpole/gamecenter/api/WelfareServiceForReleaseEvnTest.kt" />
+      <jump line="54" column="9" filename="$USER_HOME$/git/SouthPole/AppStore/common/src/test/java/com/tencent/southpole/gamecenter/api/WelfareServiceForTestEvnTest.kt" />
+      <jump line="229" column="0" filename="$USER_HOME$/git/SouthPole/AppStore/common/src/test/resources/api-response/queryGPass.json" />
+      <jump line="55" column="0" filename="$USER_HOME$/git/SouthPole/AppStore/common/src/test/java/com/tencent/southpole/gamecenter/api/WelfareServiceForReleaseEvnTest.kt" />
+      <jump line="74" column="20" filename="$USER_HOME$/git/SouthPole/AppStore/common/src/test/java/com/tencent/southpole/gamecenter/api/WelfareServiceMockTest.kt" />
+      <jump line="177" column="37" filename="$USER_HOME$/git/SouthPole/AppStore/common/src/test/resources/api-response/queryGPass.json" />
+      <jump line="17" column="14" filename="$USER_HOME$/git/SouthPole/AppStore/common/src/test-common/java/com/tencent/southpole/test/TestAccount.kt" />
+      <jump line="125" column="0" filename="$USER_HOME$/git/SouthPole/AppStore/app/build.gradle" />
+      <jump line="52" column="0" filename="$USER_HOME$/git/SouthPole/AppStore/app/src/androidTest/java/com/tencent/southpole/welfare/activity/GPassHomeActivityTest.kt" />
+      <jump line="137" column="28" filename="$USER_HOME$/git/SouthPole/AppStore/welfare/src/main/java/com/tencent/southpole/welfare/viewmodel/GPassHomeViewModel.kt" />
+      <jump line="45" column="0" filename="$USER_HOME$/git/SouthPole/AppStore/app/src/androidTest/java/com/tencent/southpole/welfare/activity/GPassGameActivityTest.kt" />
+      <jump line="47" column="0" filename="$USER_HOME$/git/SouthPole/AppStore/app/src/androidTest/java/com/tencent/southpole/welfare/activity/GPassGameActivityTest.kt" />
+      <jump line="935" column="29" filename="$USER_HOME$/git/SouthPole/AppStore/welfare/src/main/java/com/tencent/southpole/welfare/fragment/GPassZoneCardListFragment.kt" />
+      <jump line="422" column="16" filename="$USER_HOME$/git/SouthPole/AppStore/welfare/src/main/java/com/tencent/southpole/welfare/viewmodel/GPassGameViewModel.kt" />
+      <jump line="222" column="13" filename="$USER_HOME$/git/SouthPole/AppStore/common/src/test/java/com/tencent/southpole/gamecenter/api/WelfareServiceForTestEvnTest.kt" />
+      <jump line="257" column="0" filename="$USER_HOME$/git/SouthPole/AppStore/common/src/test/java/com/tencent/southpole/gamecenter/api/WelfareServiceForTestEvnTest.kt" />
+      <jump line="219" column="4" filename="$USER_HOME$/git/SouthPole/AppStore/common/src/test/java/com/tencent/southpole/gamecenter/api/WelfareServiceForTestEvnTest.kt" />
+      <jump line="89" column="19" filename="$USER_HOME$/git/SouthPole/AppStore/app/src/androidTest/java/com/tencent/southpole/mock/MockWelfareService.kt" />
+      <jump line="22" column="6" filename="$USER_HOME$/git/SouthPole/AppStore/common/src/test/java/com/tencent/southpole/common/model/repositories/WelfareRepositoryTest.kt" />
+      <jump line="287" column="38" filename="$USER_HOME$/git/SouthPole/AppStore/welfare/src/main/java/com/tencent/southpole/welfare/fragment/GPassZoneCardListFragment.kt" />
+      <jump line="9" column="19" filename="$USER_HOME$/git/SouthPole/AppStore/app/src/androidTest/assets/data/vip_yunmengshishi.json" />
+      <jump line="544" column="9" filename="$USER_HOME$/git/SouthPole/AppStore/welfare/src/main/java/com/tencent/southpole/welfare/fragment/GPassZoneCardListFragment.kt" />
+      <jump line="577" column="47" filename="$USER_HOME$/git/SouthPole/AppStore/welfare/src/main/java/com/tencent/southpole/welfare/fragment/GPassZoneCardListFragment.kt" />
+      <jump line="318" column="4" filename="$USER_HOME$/git/SouthPole/AppStore/app/src/androidTest/java/com/tencent/southpole/mock/MockUtils.kt" />
+      <jump line="133" column="21" filename="$USER_HOME$/git/SouthPole/AppStore/welfare/src/main/java/com/tencent/southpole/welfare/fragment/GPassZoneCardListFragment.kt" />
+      <jump line="90" column="0" filename="$USER_HOME$/git/SouthPole/AppStore/widgets/src/main/java/com/tencent/southpole/widgets/drawable/SyntheticDrawable.kt" />
+      <jump line="102" column="0" filename="$USER_HOME$/git/SouthPole/AppStore/widgets/src/main/java/com/tencent/southpole/widgets/drawable/SyntheticDrawable.kt" />
+      <jump line="98" column="0" filename="$USER_HOME$/git/SouthPole/AppStore/widgets/src/main/java/com/tencent/southpole/widgets/drawable/SyntheticDrawable.kt" />
+      <jump line="32" column="0" filename="$USER_HOME$/git/SouthPole/AppStore/app/src/androidTest/java/com/tencent/southpole/welfare/activity/GPassHomeActivityTest.kt" />
+      <jump line="50" column="0" filename="$USER_HOME$/git/SouthPole/AppStore/app/src/androidTest/java/com/tencent/southpole/welfare/activity/GPassHomeActivityTest.kt" />
+      <jump line="0" column="0" filename="$USER_HOME$/git/SouthPole/AppStore/app/src/androidTest/java/com/tencent/southpole/welfare/activity/GPassHomeActivityTest.kt" />
+      <jump line="1" column="0" filename="$USER_HOME$/git/SouthPole/AppStore/app/src/androidTest/java/com/tencent/southpole/welfare/activity/GPassHomeActivityTest.kt" />
+      <jump line="16" column="0" filename="$USER_HOME$/git/SouthPole/AppStore/app/src/androidTest/java/com/tencent/southpole/welfare/activity/GPassHomeActivityTest.kt" />
+      <jump line="23" column="0" filename="$USER_HOME$/git/SouthPole/AppStore/app/src/androidTest/java/com/tencent/southpole/welfare/activity/GPassHomeActivityTest.kt" />
+      <jump line="27" column="0" filename="$USER_HOME$/git/SouthPole/AppStore/app/src/androidTest/java/com/tencent/southpole/welfare/activity/GPassHomeActivityTest.kt" />
+      <jump line="253" column="21" filename="$USER_HOME$/git/SouthPole/AppStore/config.gradle" />
+      <jump line="157" column="16" filename="$USER_HOME$/git/SouthPole/AppStore/config.gradle" />
+      <jump line="27" column="0" filename="$USER_HOME$/git/Demos/BadLayoutManagerDemo/depdencies.txt" />
+      <jump line="189" column="9" filename="$USER_HOME$/git/SouthPole/AppStore/welfare/src/main/java/com/tencent/southpole/welfare/activity/GPassGameActivity.kt" />
+      <jump line="0" column="0" filename="$USER_HOME$/git/SouthPole/AppStore/welfare/src/main/java/com/tencent/southpole/welfare/activity/GPassGameActivity.kt" />
+      <jump line="1" column="0" filename="$USER_HOME$/git/SouthPole/AppStore/welfare/src/main/java/com/tencent/southpole/welfare/activity/GPassGameActivity.kt" />
+      <jump line="34" column="0" filename="$USER_HOME$/git/SouthPole/AppStore/welfare/src/main/java/com/tencent/southpole/welfare/activity/GPassGameActivity.kt" />
+      <jump line="37" column="0" filename="$USER_HOME$/git/SouthPole/AppStore/welfare/src/main/java/com/tencent/southpole/welfare/activity/GPassGameActivity.kt" />
+      <jump line="67" column="12" filename="$USER_HOME$/git/SouthPole/AppStore/common/src/main/java/com/tencent/southpole/common/model/repositories/MemoryCacheRepoFactory.kt" />
+      <jump line="90" column="40" filename="$USER_HOME$/git/SouthPole/AppStore/common/src/main/java/com/tencent/southpole/common/model/repositories/AbsMemoryCachedRepository.kt" />
+      <jump line="159" column="27" filename="$USER_HOME$/git/SouthPole/AppStore/welfare/src/main/java/com/tencent/southpole/welfare/activity/GPassHomeActivity.kt" />
+      <jump line="46" column="25" filename="$USER_HOME$/git/SouthPole/AppStore/welfare/src/main/java/com/tencent/southpole/welfare/activity/GPassGameActivity.kt" />
+      <jump line="286" column="4" filename="$USER_HOME$/git/SouthPole/AppStore/welfare/src/main/java/com/tencent/southpole/welfare/activity/GPassGameActivity.kt" />
+      <jump line="229" column="42" filename="$USER_HOME$/git/SouthPole/AppStore/welfare/src/main/java/com/tencent/southpole/welfare/viewmodel/ActivateProcessComp.kt" />
+      <jump line="231" column="75" filename="$USER_HOME$/git/SouthPole/AppStore/common/src/main/java/com/tencent/southpole/common/model/api/ApiRepository.kt" />
+      <jump line="1861" column="53" filename="$USER_HOME$/Library/Android/sdk/sources/android-28/com/android/internal/policy/DecorView.java" />
+      <jump line="2318" column="0" filename="$USER_HOME$/Library/Android/sdk/sources/android-28/android/view/ViewRootImpl.java" />
+      <jump line="3876" column="0" filename="$USER_HOME$/git/aosp/aosp9.0/frameworks/base/core/java/android/view/ViewRootImpl.java" />
+      <jump line="1748" column="45" filename="$USER_HOME$/Library/Android/sdk/sources/android-28/android/view/ViewRootImpl.java" />
+      <jump line="1459" column="11" filename="$USER_HOME$/Library/Android/sdk/sources/android-28/android/view/ViewRootImpl.java" />
+      <jump line="3382" column="6" filename="$USER_HOME$/Library/Android/sdk/sources/android-28/android/view/ViewGroup.java" />
+      <jump line="27" column="6" filename="$USER_HOME$/git/SouthPole/AppStore/common/src/test/java/com/tencent/southpole/gamecenter/api/WelfareServiceForTestEvnTest.kt" />
+      <jump line="20714" column="37" filename="$USER_HOME$/Library/Android/sdk/sources/android-28/android/view/View.java" />
+      <jump line="1665" column="15" filename="$USER_HOME$/git/aosp/aosp9.0/frameworks/native/libs/gui/Surface.cpp" />
+    </jumps>
+    <registers>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBmcmFnbWVudFZpZXdNb2RlbC5nZXRQYXJlbnRWaWV3TW9kZWwoKS5uZWVkRGlzcGxheVVzZXJJbmZvLm9ic2VydmUodGhpcywgT2JzZXJ2ZXIge2xvZ2luLT4gCiAgICAgICAgICAgIAogICAgICAgIH0pCg==</text>
+      </register>
+      <register name="-" type="4">
+        <text>dev</text>
+      </register>
+      <register name="/" type="4">
+        <text>include</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBpZiAoKEJ1aWxkQ29uZmlnLkJVSUxEX1RZUEUgPT0gInByb2d1YXJkIiB8fCBCdWlsZENvbmZpZy5CVUlMRF9UWVBFID09ICJkZWJ1ZyIpKSB7Cg==</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBmcmFnbWVudFZpZXdNb2RlbC5nZXRQYXJlbnRWaWV3TW9kZWwoKS5uZWVkRGlzcGxheVVzZXJJbmZvLm9ic2VydmUodGhpcywgT2JzZXJ2ZXIge2xvZ2luLT4gCiAgICAgICAgICAgIAogICAgICAgIH0pCg==</text>
+      </register>
+      <register name="2" type="4">
+        <text encoding="base64">CiAgc3RhdGljCiAgewogICAKICB9</text>
+      </register>
+      <register name="3" type="4">
+        <text encoding="base64">CiAgc3RhdGljCiAgewogICAgU3lzdGVtLmxvYWRMaWJyYXJ5KCJoZWxsby1qbmkiKTsKICB9</text>
+      </register>
+      <register name="4" type="4">
+        <text encoding="base64">I2lmIGRlZmluZWQoX19hcm1fXykKICAgICNpZiBkZWZpbmVkKF9fQVJNX0FSQ0hfN0FfXykKICAgICNpZiBkZWZpbmVkKF9fQVJNX05FT05fXykKICAgICAgI2lmIGRlZmluZWQoX19BUk1fUENTX1ZGUCkKICAgICAgICAjZGVmaW5lIEFCSSAiYXJtZWFiaS12N2EvTkVPTiAoaGFyZC1mbG9hdCkiCiAgICAgICNlbHNlCiAgICAgICAgI2RlZmluZSBBQkkgImFybWVhYmktdjdhL05FT04iCiAgICAgICNlbmRpZgogICAgI2Vsc2UKICAgICAgI2lmIGRlZmluZWQoX19BUk1fUENTX1ZGUCkKICAgICAgICAjZGVmaW5lIEFCSSAiYXJtZWFiaS12N2EgKGhhcmQtZmxvYXQpIgogICAgICAjZWxzZQogICAgICAgICNkZWZpbmUgQUJJICJhcm1lYWJpLXY3YSIKICAgICAgI2VuZGlmCiAgICAjZW5kaWYKICAjZWxzZQogICAjZGVmaW5lIEFCSSAiYXJtZWFiaSIKICAjZW5kaWYKI2VsaWYgZGVmaW5lZChfX2kzODZfXykKI2RlZmluZSBBQkkgIng4NiIKI2VsaWYgZGVmaW5lZChfX3g4Nl82NF9fKQojZGVmaW5lIEFCSSAieDg2XzY0IgojZWxpZiBkZWZpbmVkKF9fbWlwczY0KSAgLyogbWlwczY0ZWwtKiB0b29sY2hhaW4gZGVmaW5lcyBfX21pcHNfXyB0b28gKi8KI2RlZmluZSBBQkkgIm1pcHM2NCIKI2VsaWYgZGVmaW5lZChfX21pcHNfXykKI2RlZmluZSBBQkkgIm1pcHMiCiNlbGlmIGRlZmluZWQoX19hYXJjaDY0X18pCiNkZWZpbmUgQUJJICJhcm02NC12OGEiCiNlbHNlCiNkZWZpbmUgQUJJICJ1bmtub3duIgojZW5kaWYK</text>
+      </register>
+      <register name="5" type="4">
+        <text>登出状态转为登录状态，会发生在App启动时，如果从登出状态切换至登陆状态清除缓存 会清除掉闪屏页准备的预加载数据
+        // 但从登出状态切换为登陆状态 需要 清除福利相关的所有缓</text>
+      </register>
+      <register name="6" type="4">
+        <text encoding="base64">CiAgICAgICAgLy8g5pyA57uI5pa55qGIIOWmguaenOeUqOaIt+aJi+WKqOS7jueZu+WHuueKtuaAgeWIh+aNouS4uueZu+W9leeKtuaAgSDliJnmuIXpmaTnvJPlrZg=</text>
+      </register>
+      <register name="7" type="4">
+        <text>else {
+            if ()
+        }</text>
+      </register>
+      <register name="8" type="4">
+        <text encoding="base64">aWYgKGkgPT0gMCkKICAgICAgICBMb2cuZChUQUcsICJvbkxheW91dENoaWxkcmVuIHZpZXcwOiAkdmlldzAgdmlldzAuaW1hZ2VWaWV3OiAke2l0ZW1WaWV3Mi5maW5kVmlld0J5SWQ8Vmlldz4oUi5pZC5naWZ0X2ljb24pfSBhZGR2aWV3MDogJGl0ZW1WaWV3MiBhZGR2aWV3MC5pbWFnZXZpZXc6ICAke2l0ZW1WaWV3Mi5maW5kVmlld0J5SWQ8Vmlldz4oUi5pZC5naWZ0X2ljb24pfSIp</text>
+      </register>
+      <register name="x" type="4">
+        <text>null</text>
+      </register>
+      <register name="9" type="4">
+        <text encoding="base64">Ci8vICAgIGlubmVyIGNsYXNzIExlYXZlUmVjZWl2ZXIgOiBCcm9hZGNhc3RSZWNlaXZlcigpIHsKLy8KLy8gICAgICAgIG92ZXJyaWRlIGZ1biBvblJlY2VpdmUoY29udGV4dDogQ29udGV4dD8sIGludGVudDogSW50ZW50PykgewovLyAgICAgICAgICAgIGlmIChpbnRlbnQ/LmFjdGlvbiA9PSBJbnRlbnQuQUNUSU9OX0NMT1NFX1NZU1RFTV9ESUFMT0dTKSB7Ci8vICAgICAgICAgICAgICAgIHZhbCByZWFzb24gPSBpbnRlbnQ/LmdldFN0cmluZ0V4dHJhKCJyZWFzb24iKQovLyAgICAgICAgICAgICAgICBpZiAocmVhc29uID09ICJyZWNlbnRhcHBzIiB8fCByZWFzb24gPT0gImhvbWVrZXkiKSB7Ci8vICAgICAgICAgICAgICAgICAgICByZXBvcnRTdGF5VGltZSgpCi8vICAgICAgICAgICAgICAgIH0KLy8gICAgICAgICAgICB9Ci8vICAgICAgICB9Ci8vCi8vICAgIH0=</text>
+      </register>
+      <register name=":" type="4">
+        <text>10</text>
+      </register>
+    </registers>
+    <search>
+      <last-search>include</last-search>
+      <last-offset />
+      <last-pattern>include</last-pattern>
+      <last-replace>implementation</last-replace>
+      <last-substitute>include</last-substitute>
+      <last-dir>1</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search>
+        <entry>compile</entry>
+        <entry>ret</entry>
+        <entry>chain</entry>
+        <entry>#</entry>
+        <entry>Main</entry>
+        <entry>MainAc</entry>
+        <entry encoding="base64">XDxhcHBUeXBlc1w+</entry>
+        <entry>Clear</entry>
+        <entry>Clea</entry>
+        <entry encoding="base64">XDwpXD4=</entry>
+        <entry>le</entry>
+        <entry encoding="base64">XDzni6zkuqvku6XkuIvnibnmnYNcPg==</entry>
+        <entry>button</entry>
+        <entry>include</entry>
+      </history-search>
+      <history-cmd>
+        <entry>50,52s/compile/implementation/g</entry>
+        <entry encoding="base64">JzwsJz4=</entry>
+        <entry>set nu</entry>
+        <entry>17,28s/#//g</entry>
+        <entry>17,28s/#//</entry>
+        <entry>55</entry>
+        <entry>set rnu</entry>
+        <entry>8</entry>
+        <entry>w</entry>
+        <entry>10</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed O</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed P</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed E</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed U</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed 2</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed B</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed G</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed H</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed M</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed N</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>shift ctrl pressed 2</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>shift ctrl pressed 6</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed D</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed T</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed I</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+  </component>
+</application>
